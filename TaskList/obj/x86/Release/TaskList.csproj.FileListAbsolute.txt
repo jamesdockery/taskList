@@ -1,0 +1,4 @@
+/Users/jamesdockery/Projects/TaskList/TaskList/bin/Release/TaskList.exe
+/Users/jamesdockery/Projects/TaskList/TaskList/obj/x86/Release/TaskList.csproj.CoreCompileInputs.cache
+/Users/jamesdockery/Projects/TaskList/TaskList/obj/x86/Release/TaskList.exe
+/Users/jamesdockery/Projects/TaskList/TaskList/obj/x86/Release/TaskList.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+/Users/jamesdockery/Projects/TaskList/TaskList/bin/Debug/TaskList.exe
+/Users/jamesdockery/Projects/TaskList/TaskList/bin/Debug/TaskList.pdb
+/Users/jamesdockery/Projects/TaskList/TaskList/obj/x86/Debug/TaskList.csprojAssemblyReference.cache
+/Users/jamesdockery/Projects/TaskList/TaskList/obj/x86/Debug/TaskList.csproj.CoreCompileInputs.cache
+/Users/jamesdockery/Projects/TaskList/TaskList/obj/x86/Debug/TaskList.exe
+/Users/jamesdockery/Projects/TaskList/TaskList/obj/x86/Debug/TaskList.pdb
